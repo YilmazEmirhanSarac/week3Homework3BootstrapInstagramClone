@@ -1,1 +1,1 @@
-# week3Homework3BootstrapInstagramClone
+- Patika+ week-3 homework-2 Instagram clone with bootstrap
